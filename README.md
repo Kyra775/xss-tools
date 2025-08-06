@@ -18,12 +18,12 @@
 
 ```
 xsstools/
-├── main.py             # Main terminal interface & result display
-├── scanner.py          # Core scanner & context detection logic
-├── xss_script/         # JavaScript exploit templates
-│   ├── xss_stored.js   # Stored XSS script template
-│   ├── xss_reflected.js    # Reflected XSS script template
-│   └── xss_dom.js      # DOM-based XSS script template
+├── main.py                # Main terminal interface & result display
+├── scanner.py             # Core scanner & context detection logic
+├── xss_script/            # JavaScript exploit templates
+│   ├── stored-xss.js      # Stored XSS script template
+│   ├── reflected-xss.js   # Reflected XSS script template
+│   └── dom-xss.js         # DOM-based XSS script template
 ```
 
 ---
