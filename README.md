@@ -37,7 +37,7 @@ xsstools/
 
 2. **Run the tool**:
     ```bash
-    python tampilan.py
+    python main.py
     ```
 
 3. **Enter a target URL with parameters**:
