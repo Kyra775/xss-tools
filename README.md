@@ -22,7 +22,7 @@ xsstools/
 ├── scanner.py          # Core scanner & context detection logic
 ├── xss_script/         # JavaScript exploit templates
 │   ├── xss_stored.js   # Stored XSS script template
-│   ├── xss_based.js    # Reflected XSS script template
+│   ├── xss_reflected.js    # Reflected XSS script template
 │   └── xss_dom.js      # DOM-based XSS script template
 ```
 
